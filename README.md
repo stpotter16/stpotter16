@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Sam Potter. I'm a mechanical engineer that was bit by the software bug and now I'm trying to make a living writing code :smile:
+
+- 🔭 I’m currently working on full-stack web applications at [Indeed](indeed.com)
+
+
 <!--
 **stpotter16/stpotter16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
