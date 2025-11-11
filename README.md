@@ -2,7 +2,7 @@
 
 I'm Sam Potter. I'm a mechanical engineer that was bit by the software bug and now I'm trying to make a living writing code :smile:
 
-- 🔭 I’m currently working on full-stack web applications at [Indeed](indeed.com)
+- 🔭 I’m currently working on full-stack web applications at [Hunt Energy Network](https://huntenergynetwork.com/)
 
 
 <!--
